@@ -42,3 +42,5 @@ Password: 44044044
 Processing Android app sends commands to ESP32 via HTTP.
 
 Examples:
+/color/red
+/mode/meteor
